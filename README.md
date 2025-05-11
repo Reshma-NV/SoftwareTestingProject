@@ -71,7 +71,7 @@ Each test case includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Reshma-NV/Software Testing Project
+   git clone (https://github.com/Reshma-NV/SoftwareTestingProject)
 Navigate through the Test Plan and Test Cases folders.
 
 Execute the relevant test cases as per the module or feature under test.
