@@ -9,6 +9,7 @@ This repository serves as a resource for:
 - QA Engineers
 - Developers
 - Project Managers
+- Stake Holders
 
 ## Project List
 
