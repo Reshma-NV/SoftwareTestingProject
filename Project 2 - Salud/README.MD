@@ -1,6 +1,6 @@
  Project Name : Salud
 
-## 📋 Project Overview
+## 📋 Project 
 
 The goal of these projects is to define, document, and execute a set of manual tests to validate the core functionalities and non-functional requirements of the application.  
 This repository serves as a resource for:
@@ -10,7 +10,8 @@ This repository serves as a resource for:
 - Project Managers
 - Stake Holders
 
-Overview
+## 📋 Overveiw
+
 The Insurance Management System is a comprehensive web-based platform designed to streamline and automate various processes within the insurance domain. It provides core functionalities for policy management, claims processing, user management, premium calculations, and reporting. This project is aimed at both insurance companies looking to digitize their operations and developers seeking to understand how insurance workflows can be implemented in software.
 
 Features
