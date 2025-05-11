@@ -13,11 +13,11 @@ This repository serves as a resource for:
 
 ## Project List
 
-| Project Name      | Description               | Tools Used |
-|-------------------|---------------------------|------------|
-| Project 1 - VWO   | VWO( Visual website Optimizer at app.vwo is a comprehensive A/B testing and conversion optimization platform. The app includes an login page, registration page and a user friendly dashboard. | ALM        |   
-| Project 2 - Salud | This project is a comprehensive health insurance management platform designed to streamline operations for providers, insurers, and policyholders.                      | HPQC,JIRA  |
-| Project 3 - IBAN  | This web and mobile application that used for the employees,specifically tested in the areas of payments.     | Spira      |
+| Project Name      | Description               | Tools Used    |
+|-------------------|---------------------------|---------------|
+| Project 1 - VWO   | VWO( Visual website Optimizer at app.vwo is a comprehensive A/B testing and conversion optimization platform. The app includes an login page, registration page and a user friendly dashboard. | ALM           |   
+| Project 2 - Salud | This project is a comprehensive health insurance management platform designed to streamline operations for providers, insurers, and policyholders.                      | HPQC,JIRA,Spria |
+|
 
 ## 📌 Table of Contents
 
