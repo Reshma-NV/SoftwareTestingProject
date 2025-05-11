@@ -15,12 +15,12 @@ The Insurance Management System is a comprehensive web-based platform designed t
 
 ## 📋Features
 
-🔐 User Authentication – Secure login and registration system with role-based access control.
-🧾 Policy Management – Create, update, and manage insurance policies across different categories.
-💸 Premium Calculation – Automatic premium computation based on age, coverage, risk factors, and policy type.
-📄 Claims Processing – Submit and track claims with status updates and approval workflows.
-📊 Dashboard & Reports – View analytics and summaries of active policies, pending claims, and user statistics.
-✉️ Notifications – Email or in-app alerts for claim status, premium due dates, and policy renewals.
+- User Authentication – Secure login and registration system with role-based access control.
+- Policy Management – Create, update, and manage insurance policies across different categories.
+- Premium Calculation – Automatic premium computation based on age, coverage, risk factors, and policy type.
+- Claims Processing – Submit and track claims with status updates and approval workflows.
+- Dashboard & Reports – View analytics and summaries of active policies, pending claims, and user statistics.
+- Notifications – Email or in-app alerts for claim status, premium due dates, and policy renewals.
 
   
  
