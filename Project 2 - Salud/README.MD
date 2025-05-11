@@ -1,6 +1,5 @@
- Project Name : Salud
-
-## 📋 Project 
+ 
+## 📋 Project 2 : Salud 
 
 The goal of these projects is to define, document, and execute a set of manual tests to validate the core functionalities and non-functional requirements of the application.  
 This repository serves as a resource for:
